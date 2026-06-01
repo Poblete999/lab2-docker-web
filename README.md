@@ -27,7 +27,3 @@ Abre tu terminal y ejecuta:
 ```bash
 git clone [https://github.com/Poblete999/lab2-docker-web.git](https://github.com/Poblete999/lab2-docker-web.git)
 cd lab2-docker-web
-
-Autores: Vicente Salazar, Benjamín Poblete y Felipe Pino
-
-Universidad de Los Lagos - Ingeniería Civil Informática
